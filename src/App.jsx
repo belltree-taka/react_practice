@@ -1,6 +1,6 @@
 import React from 'react'
 import Test from './test';
-//クローン
+//クローン2
 function App() {
 
   return (
